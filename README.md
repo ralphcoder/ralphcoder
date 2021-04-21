@@ -20,7 +20,7 @@ I'm a b.tech student who is passionate about writing code, solving problems, Dat
 - 👯 I’m looking for a software development internship using Flutter. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ralphcoder) [Gmail](mailto:abhinashkumaryadavofficial@gmail.com)
 
-**<a href="https://ralphcoder.github.io/" target="_blank">`ralphcoder.Portfolio`</a>**
+**<a href="https://ralphcoder.github.io/" target="_blank">`Portfolio`</a>**
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
 
