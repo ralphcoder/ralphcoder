@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Abhinash! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Abhinash ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Student at <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> | Developer Student Club Executive Member <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
