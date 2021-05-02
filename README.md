@@ -100,9 +100,7 @@ I'm a B.tech student who is passionate about writing code, solving problems, Dat
 </h1>
 
 ## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
+
 <p align="center">
   <a href="https://www.patreon.com/ralphcoder" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
