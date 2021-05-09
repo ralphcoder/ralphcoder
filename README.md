@@ -71,7 +71,7 @@ I'm a B.tech student who is passionate about writing code, solving problems, Dat
 
 </br>
 <h1 align="center">
-✨ Where you can find me ✨
+✨ You can find me here ✨
 
 <p align="center">
   <br/>
