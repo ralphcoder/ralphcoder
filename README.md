@@ -13,7 +13,7 @@
 [![GitHub ralphcoder](https://img.shields.io/github/followers/ralphcoder?label=follow&style=social)](https://github.com/ralphcoder)
 
 
-I'm a B.tech student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building App.
+I'm a B.tech student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building app.
 
 - 🔭 I’m currently at MMMUT.
 - 📚 I’m currently learning Flutter and backend web development using NodeJS, ExpressJS and MongoDB.
