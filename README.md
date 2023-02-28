@@ -17,8 +17,8 @@ I'm a B.tech student who is passionate about writing code, solving problems, Dat
 
 - 🔭 I’m currently at MMMUT.
 - 📚 I’m currently learning Flutter and backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship using Flutter. 
-- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/ralphcoder) [Gmail](mailto:abhinashkumaryadavofficial@gmail.com)
+- 👯 I’m looking for fresher role of software development Engineer.
+- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/ralphcoder) 
 
 **<a href="https://ralphcoder.github.io/" target="_blank">`Portfolio`</a>**
 </br>
