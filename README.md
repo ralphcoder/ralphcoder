@@ -14,7 +14,6 @@
 My name is Abhinash Kumar Yadav.
 I'm passionate about the work I do but even more so devoted to giving my best.
 I like building applications that bring immense value to its consumers.
-Throughout my studies, I have developed strong problem-solving skills and have a good grasp of data structures and algorithms. Apart from this, I have a good understanding of Operating systems, Database Management systems, and Object-Oriented Programming.
 
 Passionate about solving challenging problems and proficient in various programming languages and platforms.
 Brings a fresh perspective to the team and collaborates effectively.
