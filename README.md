@@ -61,10 +61,8 @@ I derive immense satisfaction from innovatively crafting and designing novel sol
 <img src="https://github-readme-stats.vercel.app/api?username=ralphcoder&count_private=true&show_icons=true&theme=light" alt="ralphcoder's github stats"/>
 </br>
 
-</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderaky" alt="coderaky" /> </p>
 
-<br/>
 <h1 align="center">
 ✨ You can find me here ✨
 
