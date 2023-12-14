@@ -10,7 +10,6 @@
 [![GitHub ralphcoder](https://img.shields.io/github/followers/ralphcoder?label=follow&style=social)](https://github.com/ralphcoder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://ralphcoder.github.io/)
 
-**<a href="https://ralphcoder.github.io/" target="_blank">`Portfolio`</a>**
 
 ## About 
 
@@ -23,8 +22,6 @@ Passionate about solving challenging problems and proficient in various programm
 Brings a fresh perspective to the team and collaborates effectively.
 I derive immense satisfaction from innovatively crafting and designing novel solutions.
 
-
-**<a href="https://ralphcoder.github.io/" target="_blank">`Portfolio`</a>**
 
 ## Timeline
 
@@ -66,8 +63,6 @@ I derive immense satisfaction from innovatively crafting and designing novel sol
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphcoder">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcoder&layout=compact&hide=html&theme=radical" alt="ralphcoder" />
-
-</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ralphcoder&show_icons=true&theme=radical" alt="ralphcoder" />
 
