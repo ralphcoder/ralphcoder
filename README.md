@@ -3,7 +3,7 @@
 </p>
 
 <h2>नमस्ते (Namaste) 🙏🏻, I'm Abhinash ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</br>
+<br/>
 
 <!--[![Twitter: ralphcoder](https://img.shields.io/twitter/follow/ralphcoder?style=social)](https://twitter.com/ralphcoder)-->
 [![Linkedin: ralphcoder](https://img.shields.io/badge/-ralphcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ralphcoder/)](https://www.linkedin.com/in/coderaky/)
@@ -58,6 +58,7 @@ I derive immense satisfaction from innovatively crafting and designing novel sol
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphcoder">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcoder&layout=compact&hide=html&theme=radical" alt="ralphcoder" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=ralphcoder&count_private=true&show_icons=true&theme=light" alt="ralphcoder's github stats"/>
 </br>
 
