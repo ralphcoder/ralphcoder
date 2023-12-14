@@ -56,10 +56,9 @@ I derive immense satisfaction from innovatively crafting and designing novel sol
 
 
 <h1 align="left"> 📊 &nbsp;Git Stats</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphcoder">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ralphcoder">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphcoder&layout=compact&hide=html&theme=radical" alt="ralphcoder" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ralphcoder&count_private=true&show_icons=true&theme=light" alt="ralphcoder's github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ralphcoder&count_private=true&show_icons=true&theme=light" alt="ralphcoder's github stats"/>
 </br>
 
 </br>
